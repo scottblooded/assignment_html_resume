@@ -1,2 +1,1 @@
-# assignment_html_resume
-Build an HTML5 resume to jump start your job search
+A resume to practice html as an assignemnt for the Viking Code School
